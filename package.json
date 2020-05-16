@@ -1,0 +1,27 @@
+{
+  "name": "mpmc",
+  "version": "1.0.0",
+  "description": "A Charity based organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MPMC",
+    "Charity",
+    "Organization",
+    "MPMC",
+    "Website",
+    "If",
+    "You",
+    "Cannot",
+    "Feed",
+    "A",
+    "Thousand",
+    "Feed",
+    "Only",
+    "One"
+  ],
+  "author": "Steven Maina",
+  "license": "MIT"
+}
